@@ -1,0 +1,6 @@
+site: https://jenishms.medium.com/how-to-build-a-dynamic-form-in-angular-c69ab2e85924
+site: https://medium.com/@manishamittal014/creating-dynamic-forms-using-form-io-in-angular-application-7170b3a015ae
+
+npm install --save @formio/angular @formio/js
+npm i --save bootstrap
+"node_modules/bootstrap/scss/bootstrap.scss"
